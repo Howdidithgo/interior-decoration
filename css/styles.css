@@ -1,12 +1,33 @@
 img {
-  width:300px;
+  width:400px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 75%;
 }
 
-.column{
-  width:300px;
+.column {
+  width:400px;
   float: left;
+  border: 3px solid black;
+  margin: 20px;
 }
 
 h2 {
   text-align: center;
+}
+
+.c1 {
+  background-color: pink;
+  padding: 5px;
+}
+
+.c2 {
+  background-color: khaki;
+  padding: 5px;
+}
+
+.c3{
+  background-color: lightblue;
+  padding: 5px;
 }
